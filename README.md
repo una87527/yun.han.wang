@@ -10,7 +10,7 @@ Ph.D. Student, Chinese Linguistics track
 Department of East Asian Languages and Cultures  
 Indiana University Bloomington
 
-[Email](mailto:yw202@iu.edu) / [CV](./260205_cv_韻涵.pdf) / [Google Scholar](https://scholar.google.com/citations?user=R6qD2HcAAAAJ&hl=zh-TW&oi=sra) / [Orcid](https://orcid.org/0009-0003-8069-0864)
+[Email](mailto:yw202@iu.edu) / [CV](./260205_cv_韻涵.pdf) / [Google Scholar](https://scholar.google.com/citations?user=R6qD2HcAAAAJ&hl=zh-TW&oi=sra) / [ORCID](https://orcid.org/0009-0003-8069-0864)
 
 ## Biography & Research Interests
 
