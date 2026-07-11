@@ -5,7 +5,7 @@
 <!-- 請將 profile_photo.jpg 替換為您的照片檔名，並上傳至同一個 GitHub 資料夾 -->
 <img src="profile_photo.jpg" alt="profile photo" width="220" align="right" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;">
 
-# YUN-HAN WANG[cite: 1]
+# YUN-HAN WANG
 
 Ph.D. Student, Chinese Linguistics track
 Department of East Asian Languages and Cultures  
@@ -15,7 +15,7 @@ Indiana University Bloomington
 
 ## Biography & Research Interests
 
-I am a Ph.D. student in the Department of East Asian Languages and Cultures (Chinese Linguistics track) at Indiana University Bloomington. 
+I am a Ph.D. student in the Department of East Asian Languages and Cultures at Indiana University Bloomington (https://ealc.indiana.edu/index.html). Advised by Professor Chien-Jer Charles Lin (https://ealc.indiana.edu/people/core-faculty/lin-chien-jer-charles.html). Also, minor in Computaional Linguistics in IU. I got my Master's Degree in Chinese as Second Language from National Taiwan Normal University and my Bachelor's Degree from the Department of Chinese Literature in National Cheng-Kung University.
 
 My primary research interests lie in **syntax-semantics**, **cognitive-linguistics**, and **corpus linguistics**. I focus extensively on formal semantics and utilize corpus linguistics software and tools for efficient data analysis.
 
