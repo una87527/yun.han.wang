@@ -15,8 +15,8 @@ Indiana University Bloomington
 
 ## Biography & Research Interests
 
-I am a Ph.D. student in the [Department of East Asian Languages and Cultures at Indiana University Bloomington] (https://ealc.indiana.edu/index.html). Advised by Professor [Chien-Jer Charles Lin] (https://ealc.indiana.edu/people/core-faculty/lin-chien-jer-charles.html). Also, minor in Computational Linguistics at IU. I earned my Master's Degree in Chinese as a Second Language from National Taiwan Normal University, and my Bachelor's Degree from the Department of Chinese Literature at National Cheng-Kung University.
+I am a Ph.D. student in the [Department of East Asian Languages and Cultures at Indiana University Bloomington] (https://ealc.indiana.edu/index.html). Advised by Professor [Chien-Jer Charles Lin] (https://ealc.indiana.edu/people/core-faculty/lin-chien-jer-charles.html). Also, minor in Computational Linguistics at IU. I earned my Master's Degree in Chinese as a Second Language from National Taiwan Normal University, and my Bachelor's Degree is from the Department of Chinese Literature at National Cheng-Kung University.
 
-My primary research interests lie in **syntax-semantics**, **cognitive linguistics**, and **corpus linguistics**. I focus extensively on formal semantics and utilize corpus linguistics software and tools for efficient data analysis.
+My primary research interests lie in **syntax-semantics**, **cognitive linguistics**, and **corpus linguistics**. I am currently focusing extensively on relative clauses and use corpus linguistics software and tools for efficient data analysis.
 
 ---
