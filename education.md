@@ -1,6 +1,5 @@
 
 **[Home](./)** | **[Education](education.html)** | **[Publications](publications.html)** | **[Experience](experience.html)** | **[Awards & Skills](awards_and_skills.html)**
-***
 
 # Education
 
