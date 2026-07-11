@@ -5,19 +5,18 @@
 
 ## Research Experience
 
-* **Research Assistant | National Taiwan Normal University**, Taipei, Taiwan
-  * Advisor: Dr. Huichen S. Hsiao | Aug 2021 – Present
+* **Research Assistant - National Taiwan Normal University**, Taipei, Taiwan
+  * Advisor: Dr. Huichen S. Hsiao - Aug 2021 – Present
   * Published four papers and presented at conferences across eight countries.
   * Collaborated on establishing and correcting experimental designs, resulting in improved methodological rigor and more accurate research outcomes.
   * Participated in the revision of articles, enhancing the coherence of the meaning and the accuracy of the data.
 
-* **Research Assistant | National Cheng Kung University**, Tainan, Taiwan
-  * Advisor: Dr. Sung-Lin Chen | Aug 2019 – July 2021
+* **Research Assistant - National Cheng Kung University**, Tainan, Taiwan
+  * Advisor: Dr. Sung-Lin Chen - Aug 2019 – July 2021
   * Assisted in analyzing 400 language materials comprising student compositions for the project "Grammatical Variations of World Chinese".
   * Drafted two National Science Council (NSC) Research Project concluding reports.
 
 ## Teaching Experience
-
 * **Chinese Language Teacher | Tamkang University** (Summer 2024)
   * Independently developed lesson plans and teaching materials. Provided after-class tutoring and organized Chinese small group exercises.
 * **Chinese Language Assistant | College of Holy Cross, MA** (Fall 2022 & Spring 2023)
