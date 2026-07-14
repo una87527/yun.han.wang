@@ -1,4 +1,4 @@
-**[Home](./)** | **[Education](education.html)** | **[Publications](publications.html)** | **[Experience](experience.html)** | **[Awards & Skills](awards_and_skills.html)**
+**[Home](./)** | **[Education](education.md)** | **[Publications](publications.md)** | **[Experience](experience.md)** | **[Awards & Skills](awards_and_skills.md)**
 
 # Awards, Certifications & Skills
 
