@@ -21,4 +21,4 @@ My primary research interests lie in **syntax-semantics**, **cognitive linguisti
 * **[May 2026]** Delivering an oral presentation at the 38th North American Conference on Chinese Linguistics (NACCL-38) in Washington, D.C.
 * **[Spring 2026]** Received the Indiana University EASC Conference Travel Award.
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funa87527.github.io%2Fyun.han.wang%2F&count_bg=%23000000&title_bg=%23555555&title=Visitors&edge_flat=true)
+![Pageviews](https://shields.io/badge/PAGEVIEWS-00,128-green.svg?style=flat-square&logo=github&logoColor=white)
