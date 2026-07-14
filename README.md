@@ -1,3 +1,4 @@
+<meta name="description" content="Academic homepage of Yun-Han Wang, Ph.D. student in Chinese Linguistics at Indiana University Bloomington. Research interests include syntax-semantics, cognitive linguistics, and corpus linguistics.">
 **[Home](./)** | **[Education](education.md)** | **[Publications](publications.md)** | **[Experience](experience.md)** | **[Awards & Skills](awards_and_skills.md)**
 
 <img src="profile_photo.jpg" alt="profile photo" width="220" align="right" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;">
