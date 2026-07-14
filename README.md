@@ -16,6 +16,9 @@ I am a Ph.D. student in the [Department of East Asian Languages and Cultures at 
 
 My primary research interests lie in **syntax-semantics**, **cognitive linguistics**, and **corpus linguistics**. I am currently focusing extensively on relative clauses and using corpus linguistics software and tools for efficient data analysis.
 
+
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funa87527.github.io%2Fyun.han.wang%2F&count_bg=%23000000&title_bg=%23555555&title=Visitors&edge_flat=true)
+
 ## News
 
 * **[May 2026]** Delivering an oral presentation at the 38th North American Conference on Chinese Linguistics (NACCL-38) in Washington, D.C.
