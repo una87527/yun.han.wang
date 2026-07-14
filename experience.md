@@ -20,7 +20,7 @@
   * Independently developed lesson plans and teaching materials. Provided after-class tutoring and organized Chinese small group exercises.
 * **Chinese Language Assistant - College of Holy Cross, MA** (Fall 2022 & Spring 2023)
   * Taught small group classes and organized Chinese cultural events, including setting up language tables and hosting evening activities.
-* **One-on-one Teacher | Middlebury College Summer Chinese School** (Summer 2022)
+* **One-on-one Teacher - Middlebury College Summer Chinese School** (Summer 2022)
 * **Small-classroom Teacher - Waseda University Language Chinese Course** (Spring 2022)
   * Taught small classes and counseling classes; independently developed lesson plans.
 * **Tutor - The Chinese Flagship Overseas Capstone Program in Taiwan** (Fall 2021)
