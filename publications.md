@@ -12,7 +12,7 @@
 * **Wang, Y. H.**, & Hsiao, H. S. (2026). A corpus-based investigation on approximations Shàngxià and Zuǒyòu in Mandarin. *Applied Corpus Linguistics, 100209*. DOI: 10.1016/j.acorp.2026.100209
 * Huang, Y. J., **Wang, Y. H.** , & Hsiao, H. S. (2026). 漢語約量詞實證研究—以 [來] 與 [多] 為例 [An Empirical Study on Approximators lai and duo in Mandarin]. Chinese Language and Discourse. https://doi.org/10.1075/cld.25031.hua
 
-## Textbooks & Proceedings
+## Textbooks
 * **Yun-Han Wang** (Huichen S. Hsiao). *Light Taiwan*. Taipei: New Sharing Culture Enterprise Co. (Textbook for CSL).
 
 ## Conference Presentations
