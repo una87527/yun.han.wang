@@ -1,6 +1,6 @@
+<style> h1:first-of-type { display: none; } </style>
 **[Home](./)** | **[Education](education.html)** | **[Publications](publications.html)** | **[Experience](experience.html)** | **[Awards & Skills](awards_and_skills.html)**
 
-<!-- 請將 profile_photo.jpg 替換為您的照片檔名，並上傳至同一個 GitHub 資料夾 -->
 <img src="profile_photo.jpg" alt="profile photo" width="220" align="right" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;">
 
 # YUN-HAN WANG
